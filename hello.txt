@@ -6,6 +6,5 @@ ABC
 321
 
 123
-world
 World
 
