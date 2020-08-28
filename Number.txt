@@ -35,6 +35,11 @@ Anjali
 khadake
 =======
 Khadake
+<<<<<<< HEAD
 >>>>>>> feature2
 
 Number9
+=======
+
+number7
+>>>>>>> feature2
