@@ -7,6 +7,7 @@ Add Number
 123
 
 Content added
+<<<<<<< HEAD
 =======
 Add Number
 123
@@ -15,3 +16,11 @@ Add Number
 =======
 >>>>>>> 8da468238f762ecbfb9d35c4280f8dedbddb4df6
 >>>>>>> feature2
+=======
+=======
+Add Number
+123
+>>>>>>> 8da468238f762ecbfb9d35c4280f8dedbddb4df6
+
+Content2 added
+>>>>>>> a5aa4848a859645b3bcea6685d8b20149794e63d
