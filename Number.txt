@@ -10,4 +10,8 @@ Content added
 =======
 Add Number
 123
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> 8da468238f762ecbfb9d35c4280f8dedbddb4df6
+>>>>>>> feature2
